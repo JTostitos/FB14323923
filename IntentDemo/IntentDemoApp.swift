@@ -2,7 +2,7 @@
 //  IntentDemoApp.swift
 //  IntentDemo
 //
-//  Created by Jonathan Tsistinas on 7/15/24.
+//  Created by Jonathan on 7/15/24.
 //
 
 import SwiftUI
